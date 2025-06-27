@@ -1,6 +1,6 @@
 # 8051-Based-Digital-Thermo-Hygrometer-using-DHT11
 
-Technical Project Description:
+Project Description:
 
 This project demonstrates the interfacing of the DHT11 temperature and humidity sensor with the 8051 microcontroller to monitor environmental conditions. The DHT11 sensor transmits digital data consisting of the integral and decimal parts of humidity and temperature, along with a checksum for data validation. The 8051 microcontroller processes this data and displays the values in real-time on a 16x2 LCD using a 4-bit interface.
 
